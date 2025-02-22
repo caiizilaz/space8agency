@@ -1,0 +1,11 @@
+agency-swarm>=0.4.4
+python-dotenv>=1.0.0
+openai>=1.0.0
+pydantic>=2.0.0
+typing-extensions>=4.0.0
+pillow>=10.0.0  # For image processing
+requests>=2.31.0  # For HTTP requests
+python-dotenv>=1.0.0  # For environment variables
+aiohttp>=3.9.0  # For async HTTP requests
+numpy>=1.24.0  # For image processing
+opencv-python>=4.8.0  # For image analysis 
